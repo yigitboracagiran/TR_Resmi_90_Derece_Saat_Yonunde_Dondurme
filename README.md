@@ -8,7 +8,7 @@
 
 2- Bunun için öncelikle matriksin transpozu ( aynı indeksli satır ve sütunlarının yer değiştirmesi ) alınır.
 
-3- Ardından da her satırın tersi alınır. Böylece resim 90 derece saat yönünde dönmüş olur.
+3- Ardından da her satırın tersi ( sondan başa doğru yazılır ) alınır. Böylece resim 90 derece saat yönünde dönmüş olur.
 
 # Kodu Ubuntu'da Derleme ve Çalıştırma
 
